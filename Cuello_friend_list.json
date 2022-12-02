@@ -1,0 +1,39 @@
+{ 
+    
+        "first name": "Paolo Miguel",
+        "last name": "Cuello",
+        "age": 21,
+        "address": "New Lucena, Iloilo City",
+        "contact number": "09056682551",
+	
+    "friend-list":[ 
+        {
+            "name": "Shye Custodio",
+            "age": 21,
+            "address": "Pototan, Iloilo City",
+            "Likes":"Foods",
+            "Dislikes":"Waking up early",
+            "Feeling":"Hungry"
+        },
+        {
+            "name": "Gaille Cabanggay",
+            "age": 21,
+            "address": "Pavia, Iloilo City",
+            "Likes":"Online Games",
+            "Dislikes":"Paperworks",
+            "Feeling":"Motivated"
+        },
+        {
+            "name": "Justin Santos",
+            "age": 21,
+            "address": "Pototan, Iloilo City",
+            "Likes":"Junk Foods",
+            "Dislikes":"Error in codes",
+            "Feeling":"Sleepy"
+        }
+        
+    ]
+	
+
+
+}
